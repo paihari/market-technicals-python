@@ -1,2 +1,2 @@
 # python-binance-techinals
-Technical Analysis of Crypto, Explaration of Crypto and Python together
+Technical Analysis of Crypto, Exploration of Crypto and Python together
