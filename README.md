@@ -108,12 +108,3 @@ python fetcher.py
 
 ---
 
-## 📝 License
-
-MIT License
-
----
-
-## ✍️ Author
-
-Built for educational exploration and strategy prototyping in the crypto market using Binance data and Python.
